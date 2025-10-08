@@ -1,7 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/curzon01)](https://github.com/curzon01)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=curzon01)
 
-![](https://github-readme-stats.vercel.app/api?username=curzon01&theme=tokyonight&hide_border=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=curzon01&theme=tokyonight&hide_border=true&count_private=false)
 
 <!--
 **curzon01/curzon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
