@@ -1,5 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/curzon01)](https://github.com/curzon01)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=curzon01)
+[![Paypal](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/NorbertRichterDE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/curzon01)
 
 ![](./profile/stats.svg)
 
