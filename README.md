@@ -3,7 +3,7 @@
 [![Paypal](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/NorbertRichterDE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/curzon01)
 
-![](./profile/stats.svg)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=curzon01)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **curzon01/curzon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
