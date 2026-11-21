@@ -1,7 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/curzon01)](https://github.com/curzon01)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=curzon01)
-[![Paypal](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/NorbertRichterDE)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/curzon01)
+[![PayPal](https://img.shields.io/badge/donate-PayPal-0070BA?logo=paypal)](https://paypal.me/NorbertRichterDE)
+[![Buy Me A Coffee](https://img.shields.io/badge/donate-Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/curzon01)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=curzon01)](https://github.com/stats-organization/github-stats-extended)
 
